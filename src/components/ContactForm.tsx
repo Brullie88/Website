@@ -52,7 +52,7 @@ export default function ContactForm() {
                 <input 
                   type="email" 
                   className="w-full px-5 py-4 rounded-2xl bg-white border border-levanto-beige focus:ring-2 focus:ring-levanto-magenta focus:border-transparent outline-none transition-all"
-                  placeholder="email@voorbeeld.nl"
+                  placeholder="Test@test.nl"
                 />
               </div>
               
