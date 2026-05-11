@@ -20,8 +20,8 @@ export default function ContactForm() {
               <p className="text-levanto-gray mb-6 font-medium">
                 Snel antwoord op uw vragen:
               </p>
-              <a href="tel:+310451234567" className="text-3xl lg:text-4xl font-display font-bold text-levanto-magenta hover:text-levanto-gold transition-colors">
-                045 - 123 4567
+              <a href="tel:+31045111111" className="text-3xl lg:text-4xl font-display font-bold text-levanto-magenta hover:text-levanto-gold transition-colors">
+                045 - 111 111
               </a>
             </div>
           </div>
