@@ -18,7 +18,7 @@ export default function ContactForm() {
                 Liever bellen?
               </h3>
               <p className="text-levanto-gray mb-6 font-medium">
-                Snel antwoord/reactie op uw vragen:
+                Snel antwoord op uw vragen:
               </p>
               <a href="tel:+31045121212" className="text-3xl lg:text-4xl font-display font-bold text-levanto-magenta hover:text-levanto-gold transition-colors">
                 045 - 121212
@@ -52,7 +52,7 @@ export default function ContactForm() {
                 <input 
                   type="email" 
                   className="w-full px-5 py-4 rounded-2xl bg-white border border-levanto-beige focus:ring-2 focus:ring-levanto-magenta focus:border-transparent outline-none transition-all"
-                  placeholder="email@voorbeeld.nl"
+                  placeholder="Typ hier uw emailadres"
                 />
               </div>
               
