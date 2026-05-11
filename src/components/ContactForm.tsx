@@ -21,7 +21,7 @@ export default function ContactForm() {
                 Snel antwoord op uw vragen:
               </p>
               <a href="tel:+31045121212" className="text-3xl lg:text-4xl font-display font-bold text-levanto-magenta hover:text-levanto-gold transition-colors">
-                045 - 123 4567
+                045 - 121212
               </a>
             </div>
           </div>
